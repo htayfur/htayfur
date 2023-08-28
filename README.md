@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I know PHP at an expert level.<br>👯 I am improving myself on JavaScript and Python.<br>🌱 I am studying at Istanbul University Computer Programming Department.<br>⚡ I know English at B1 level and I continue to improve it day by day.<br>🤝 You can ask me questions via my website or contact information.
+🔭 I know PHP at an expert level.<br>👯 I'm improving myself on JavaScript and Python.<br>🌱 I'm studying at Istanbul University Computer Programming Department.<br>⚡ I know English at B1 level and I continue to improve it day by day.<br>🤝 You can ask me questions via my website or contact information.
 
 
 ## 🌐 Socials:
